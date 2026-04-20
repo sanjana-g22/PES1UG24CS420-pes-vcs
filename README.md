@@ -604,3 +604,9 @@ The following questions cover filesystem concepts beyond the implementation scop
 
 This project is a simplified implementation of a version control system inspired by Git.
 It supports basic operations like commit, branching, checkout, and object storage.
+## Features
+- Commit tracking
+- Branch creation
+- Checkout functionality
+- Object storage (blob, tree, commit)
+- Garbage collection (basic)
