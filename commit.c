@@ -1,5 +1,6 @@
 // commit.c — Commit creation and history traversal
-
+// Handles commit creation and storage
+// Stores commit metadata and parent linkage
 #include "commit.h"
 #include "index.h"
 #include "tree.h"
