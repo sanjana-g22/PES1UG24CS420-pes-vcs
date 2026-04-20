@@ -616,3 +616,10 @@ gcc *.c -o pes
 ./pes init
 ./pes add <file>
 ./pes commit -m "message"
+## Project Structure
+
+- pes.c → main CLI logic
+- commit.c → commit handling
+- tree.c → tree structure
+- index.h → staging area
+- object.c → object storage
