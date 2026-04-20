@@ -610,3 +610,9 @@ It supports basic operations like commit, branching, checkout, and object storag
 - Checkout functionality
 - Object storage (blob, tree, commit)
 - Garbage collection (basic)
+## How to Run
+
+gcc *.c -o pes
+./pes init
+./pes add <file>
+./pes commit -m "message"
