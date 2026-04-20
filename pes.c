@@ -1,6 +1,7 @@
 // pes.c — CLI entry point
 // Main file handling CLI commands for pes version control system
 // Handles init, add, commit, checkout
+//done
 #include "pes.h"
 #include "index.h"
 #include "commit.h"
