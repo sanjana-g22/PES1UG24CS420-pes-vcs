@@ -1,5 +1,6 @@
 // tree.c — Tree object serialization and construction
-
+// Represents directory tree structure
+// Used to store file hierarchy in commits
 #include "tree.h"
 #include "index.h"
 #include <stdio.h>
