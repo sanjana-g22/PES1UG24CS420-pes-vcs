@@ -1,5 +1,6 @@
 // test_objects.c — Phase 1 test program
-//
+// Test cases for object creation and retrieval
+// Verifies correctness of blob and tree storage
 // Compile and run:
 //   gcc -Wall -Wextra -O2 -o test_objects test_objects.c object.c -lcrypto
 //   ./test_objects
