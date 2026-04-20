@@ -1,5 +1,6 @@
 // index.h — Staging area (index) interface
-//
+// Staging area structure
+// Tracks files added before commit
 // The index is a text file (.pes/index) that tracks which files are
 // staged for the next commit. It maps file paths to their blob hashes
 // and stores metadata for fast change detection.
